@@ -40,7 +40,7 @@
     <img 
         alt="Bruno's GitHub Langs"
         height="140em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&langs_count=7&theme=tokyonight"/>
+        src="https://github-readme-streak-stats.herokuapp.com/?user=L4ZARIN3&theme=tokyonight&hide_border=true"/>
   </a>
 
 </div>
