@@ -1,6 +1,4 @@
-
-<h1 align="center">🚨 Bruno Lazarine 🚨</h1>
-<h3 align="center">APPSEC • Back-end • PHP • HyperF • Laravel • Jquery • API Rest • Junior (mas insano) 😵‍💫</h3>
+<h1 align="center">🚨 Bruno Lazarini 🚨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FEC63E&background=000000&center=true&vCenter=true&multiline=true&width=438&height=88&lines=Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+%E2%9C%94;Just+a+Junior+with+a+senior+rage" alt="Typing SVG" />
@@ -8,56 +6,86 @@
 
 ---
 
-### 🧠 Stack Mental
-
-```
-🤖 Hyperf          ☠ Laravel
-🛡 AppSec          🪛 API Rest
-🐘 PHP             💣 Jquery (yes, ainda uso)
-```
+## 🧠 Sobre Mim
+- **Nome:** Bruno “L4ZARIN3” Lazarini  
+- **Especialidades:** Pentest Mobile & Web, Exploração de Privilégios, Dev Back-end  
+- **Ferramentas favoritas:** Hyperf • Laravel • PHP • Socket.IO • Redis • Swoole  
 
 ---
 
-### 💻 Playground
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub overall stats -->
+  <a href="https://github.com/L4ZARIN3">
+    <img
+      alt="Bruno's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Top languages -->
+  <a href="https://github.com/L4ZARIN3">
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Streak stats -->
+  <a href="https://github.com/L4ZARIN3">
+    <img
+      alt="GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=L4ZARIN3&theme=tokyonight&hide_border=true"
+    />
+  </a>
+
+</div>
+
+---
+
+
+## 🚀 Skills
+
+| Categoria        | Tecnologias                                              |
+|------------------|-----------------------------------------------------------|
+| **Linguagens**   | PHP • JavaScript • Python                                 |
+| **Frameworks**   | Hyperf • Laravel • Socket.IO • aiohttp                    |
+| **Segurança**    | Pentest Mobile & Web • Exploração de Privilégios • C2 Dev |
+| **Databases**    | MySQL • Redis                                             |
+| **DevOps**       | Docker • Nginx                                            |
+| **Outros**       | API REST • Regex • Load Balancing • Stress Testing        |
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,redis,mysql,jquery,docker,debian,github,py,vscode" />
 </p>
 
 ---
 
-### ⚡ Projetos do Caos
+## ⚡ Projetos de Chaos
 
-| Projeto                  | Descrição insana                                       |
-|--------------------------|--------------------------------------------------------|
-| `C2 em Hyperf`           | Um Command & Control full socket.io, Redis e fúria     |
-| `Gateway de Pagamento`   | Integrações malucas com Pix, cartão e load balancer    |
-| `Sistema de dados`       | Sistema de localização de pessoas, veiculos e etc      |
-
----
-
-### 🔥 Fun Facts
-- Escrevo código com rock no ouvido e red bull intravenoso.
-- Já usei `Hyperf` pra fazer C2. Sim. Um C2.
-- Acredito que regex é uma linguagem de invocação arcana.
-- Pensador nato desde sempre — questionar é meu instinto.
-- Adoro quebrar sistemas... *eticamente* 😇
+| Projeto                  | Descrição                                                                    |
+|--------------------------|-------------------------------------------------------------------------------|
+| **C2 em Hyperf**         | Command & Control com Socket.IO e Redis para comandos em tempo real          |
+| **Gateway de Pagamento** | Checkout customizado (Pix, cartão), escalável e balanceado                   |
+| **Stress Tester**        | Script Python com aiohttp para até 1 000 conexões simultâneas                |
 
 ---
 
-### 🕸 Onde eu me escondo:
-<p>
+## 🔥 Fun Facts
+- Rock nos ouvidos e Red Bull na veia 🎸  
+- Regex é meu feitiço arcano 🪄  
+- Já “hackeei” C2 em Hyperf de propósito 😏  
+- Filosofias existenciais e infohazards me enlouquecem  
+
+---
+
+## 📫 Onde me achar
+<p align="center">
   <a href="https://github.com/L4ZARIN3"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bruno-lazarini-bezerra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/B.r.3.a.k.i.n.g.T.h.e.L.a.w"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/0x1.info.hazard"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### 🧟 GitHub Stats Apocalípticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=L4ZARIN3&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -67,7 +95,6 @@
 <p align="center">
   <img src="./pIiK9Vu.gif" alt="Maçã Maldita" width="400" />
 </p>
-
 
 ---
 
