@@ -20,12 +20,7 @@
 
 
   <!-- Streak stats -->
-  <a href="https://github.com/L4ZARIN3">
-    <img
-      alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=L4ZARIN3&theme=tokyonight&hide_border=true"
-    />
-  </a>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melchioretto&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
