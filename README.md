@@ -25,7 +25,7 @@
       src="https://github-readme-stats.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=tokyonight&hide_border=true"
     />
   </a>
-  &nbsp;&nbsp;
+  
   <!-- Top languages -->
   <a href="https://github.com/L4ZARIN3">
     <img
@@ -34,7 +34,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"
     />
   </a>
-  &nbsp;&nbsp;
+  </br>
   <!-- Streak stats -->
   <a href="https://github.com/L4ZARIN3">
     <img 
@@ -77,9 +77,10 @@
 
 ## 🔥 Fun Facts
 - Rock nos ouvidos e Red Bull na veia 🎸  
-- Regex é meu feitiço arcano 🪄  
-- Já “hackeei” C2 em Hyperf de propósito 😏  
-- Filosofias existenciais e infohazards me enlouquecem  
+- Acredito que regex é uma linguagem de invocação arcana. 🪄  
+- Pensador nato desde sempre — questionar é meu instinto.
+- Filosofias existenciais e infohazards me enlouquecem
+- Adoro quebrar sistemas... *eticamente* 😇
 
 ---
 
