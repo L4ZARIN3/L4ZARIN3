@@ -17,10 +17,31 @@
 
 <div align="center">
 
-
-
+  <!-- GitHub overall stats -->
+  <a href="https://github.com/L4ZARIN3">
+    <img
+      alt="Bruno's GitHub Stats"
+      height="140em"
+      src="https://github-readme-stats.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Top languages -->
+  <a href="https://github.com/L4ZARIN3">
+    <img
+      alt="Top Languages"
+      height="140em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"
+    />
+  </a>
+  &nbsp;&nbsp;
   <!-- Streak stats -->
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/L4ZARIN3">
+    <img 
+        alt="Bruno's GitHub Langs"
+        height="140em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 
 </div>
 
