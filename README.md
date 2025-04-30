@@ -25,14 +25,7 @@
     />
   </a>
   &nbsp;&nbsp;
-  <!-- Top languages -->
-  <a href="https://github.com/L4ZARIN3">
-    <img
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"
-    />
-  </a>
-  &nbsp;&nbsp;
+
   <!-- Streak stats -->
   <a href="https://github.com/L4ZARIN3">
     <img
