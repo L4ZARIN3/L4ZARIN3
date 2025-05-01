@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FEC63E&background=000000&center=true&vCenter=true&multiline=true&width=438&height=88&lines=Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+%E2%9C%94;Just+a+Junior+with+a+senior+rage" alt="Typing SVG" />
+
 </p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 ---
 
 ## 🧠 Sobre Mim
