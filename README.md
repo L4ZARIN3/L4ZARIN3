@@ -26,6 +26,7 @@
         height="140em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"
     />
+    <br>
     <img
         alt="Bruno's GitHub Streak"
         height="140em"
