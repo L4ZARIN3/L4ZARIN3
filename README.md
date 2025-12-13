@@ -26,10 +26,10 @@
         height="140em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"
     />
-    <img 
-        alt="Bruno's GitHub Langs"
-        height="140em" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=L4ZARIN3&theme=tokyonight&hide_border=true"
+    <img
+        alt="Bruno's GitHub Streak"
+        height="140em"
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=L4ZARIN3&theme=tokyonight&hide_border=true"
     />
 </div>
 
