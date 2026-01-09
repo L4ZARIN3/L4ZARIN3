@@ -25,12 +25,12 @@
     <img
       alt="Bruno's GitHub Top Langs"
       height="140em"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&theme=tokyonight&theme=radical"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&theme=tokyonight&theme=radical&hide_border=true"
     />
     <img 
         alt="Top Languages"
         height="140em"
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&theme=tokyonight&theme=radical"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&theme=tokyonight&theme=radical&hide_border=true"
     />
 
 ---
