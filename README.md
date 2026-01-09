@@ -15,11 +15,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=L4ZARIN3&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight)
-</div>
+
 
 ---
 
