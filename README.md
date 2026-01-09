@@ -16,22 +16,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img
-        alt="Bruno's GitHub Streak"
-        height="140em"
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=L4ZARIN3&theme=tokyonight&hide_border=true"
-    />
-    <br>
-    <img
-      alt="Bruno's GitHub Top Langs"
-      height="140em"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=tokyonight&theme=radical"
-    />
-    <img 
-        alt="Top Languages"
-        height="140em"
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=tokyonight&theme=radical"
-    />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=L4ZARIN3&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=radical)
 </div>
 
 ---
