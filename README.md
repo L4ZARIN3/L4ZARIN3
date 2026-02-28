@@ -38,16 +38,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    alt="Bruno's GitHub Streak"
-    height="150"
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=L4ZARIN3&theme=tokyonight&hide_border=true"
-  />
-  <img
-    alt="Bruno's GitHub Top Langs"
-    height="150"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true"
-  />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=L4ZARIN3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=3078C0&icon_color=3078C0&text_color=3078C0&ring_color=3078C0&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=L4ZARIN3&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=3078C0&icon_color=3078C0&text_color=3078C0" />
+<br/><br/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=3078C0&icon_color=3078C0&text_color=3078C0&langs_count=8" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=L4ZARIN3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FEC63E&line=FEC63E&point=FFFFFF&area=true&area_color=FEC63E" width="95%" />
 </div>
 
