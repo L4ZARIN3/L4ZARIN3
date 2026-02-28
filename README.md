@@ -96,3 +96,5 @@
 ---
 
 > ⚠️ *"Cuidado ao seguir este repositório: você pode acabar encontrando nada, se olhar direito."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FEC63E&height=80&section=footer" />
