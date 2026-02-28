@@ -55,6 +55,8 @@
 
 ## 🚀 Skills
 
+<div align="center">
+
 | Categoria        | Tecnologias                                              |
 |------------------|-----------------------------------------------------------|
 | **Linguagens**   | PHP • JavaScript • Python                                 |
@@ -67,6 +69,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,redis,mysql,jquery,docker,debian,github,py,vscode" />
 </p>
+
+
+<img src="https://img.shields.io/badge/PHP-Expert-FEC63E?style=flat-square&logo=php&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Laravel-Advanced-FEC63E?style=flat-square&logo=laravel&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Hyperf-Advanced-FEC63E?style=flat-square&logo=swoole&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Redis-Advanced-FEC63E?style=flat-square&logo=redis&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Docker-Intermediate-FEC63E?style=flat-square&logo=docker&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Python-Intermediate-FEC63E?style=flat-square&logo=python&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Pentest-Advanced-FEC63E?style=flat-square&logo=hackthebox&logoColor=white&labelColor=000000" />
+
+</div>
+
 
 ---
 
