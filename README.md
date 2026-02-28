@@ -4,16 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FEC63E&height=120&section=header&text=L4ZARIN3&fontSize=60&fontColor=000000&fontAlignY=38&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FEC63E&background=000000&center=true&vCenter=true&multiline=true&width=480&height=88&lines=Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+%E2%9C%94;Just+a+Junior+with+a+senior+rage" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FEC63E&background=000000&center=true&vCenter=true&multiline=true&width=438&height=88&lines=Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+%E2%9C%94;Just+a+Junior+with+a+senior+rage" alt="Typing SVG" />
+</p>
 
 <!-- Visitor badge -->
 <img src="https://komarev.com/ghpvc/?username=L4ZARIN3&style=for-the-badge&color=FEC63E&labelColor=000000" alt="Profile views" />
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FEC63E&background=000000&center=true&vCenter=true&multiline=true&width=438&height=88&lines=Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+%E2%9C%94;Just+a+Junior+with+a+senior+rage" alt="Typing SVG" />
-</p>
+
 
 ---
 
