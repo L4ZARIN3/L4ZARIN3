@@ -1,15 +1,25 @@
 <div align="center">
 
 <!-- Wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FEC63E&height=120&section=header&text=L4ZARIN3&fontSize=60&fontColor=000000&fontAlignY=38&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FEC63E,100:000000&height=180&section=header&text=L4ZARIN3&fontSize=72&fontColor=FEC63E&fontAlignY=32&animation=fadeIn&desc=backend%20•%20appsec%20•%20chaos%20engineering&descSize=16&descColor=FFFFFF&descAlignY=55" />
 
 <!-- Typing SVG -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FEC63E&background=000000&center=true&vCenter=true&multiline=true&width=438&height=88&lines=Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+%E2%9C%94;Just+a+Junior+with+a+senior+rage" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=FEC63E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%90%8D+Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+Engineering+%E2%9C%94;Just+a+Junior+with+a+Senior+rage+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-<!-- Visitor badge -->
+<br/>
+
+<!-- Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=L4ZARIN3&style=for-the-badge&color=FEC63E&labelColor=000000" alt="Profile views" />
+&nbsp;
+<a href="https://github.com/L4ZARIN3?tab=followers">
+<img src="https://img.shields.io/github/followers/L4ZARIN3?style=for-the-badge&color=FEC63E&labelColor=000000&logo=github" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/L4ZARIN3?tab=repositories">
+<img src="https://img.shields.io/github/stars/L4ZARIN3?style=for-the-badge&color=FEC63E&labelColor=000000&logo=github" alt="Stars" />
+</a>
 
 </div>
 
