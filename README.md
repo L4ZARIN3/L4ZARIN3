@@ -5,9 +5,10 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=FEC63E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%90%8D+Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+Engineering+%E2%9C%94;Just+a+Junior+with+a+Senior+rage+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=FEC63E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%90%8D+Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+Engineering+%E2%9C%94;Just+a+Junior+with+a+Senior+rage+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
+<br/>
 <br/>
 
 <!-- Badges Row -->
