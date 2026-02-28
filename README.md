@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FEC63E,100:000000&height=180&section=header&text=L4ZARIN3&fontSize=72&fontColor=FEC63E&fontAlignY=32&animation=fadeIn&desc=backend%20•%20appsec%20•%20chaos%20engineering&descSize=16&descColor=FFFFFF&descAlignY=55" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a1a00,50:FEC63E,70:1a1a00,100:000000&height=200&section=header&text=L4ZARIN3&fontSize=80&fontColor=FEC63E&fontAlignY=28&animation=twinkling&desc=%E2%9A%A1%20Backend%20%E2%80%A2%20AppSec%20%E2%80%A2%20Chaos%20Engineering%20%E2%9A%A1&descSize=18&descColor=FFFFFF&descAlignY=52&stroke=FEC63E&strokeWidth=1" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=FEC63E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%90%8D+Welcome+to+my+chaotic+GitHub!;Backend+%E2%9C%94+Hyperf+%E2%9C%94+Laravel+%E2%9C%94;AppSec+vibes+%E2%9C%94+Reverse+Engineering+%E2%9C%94;Just+a+Junior+with+a+Senior+rage+%F0%9F%94%A5" alt="Typing SVG" />
