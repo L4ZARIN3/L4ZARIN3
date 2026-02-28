@@ -48,6 +48,7 @@
     height="150"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=L4ZARIN3&layout=compact&theme=tokyonight&hide_border=true"
   />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L4ZARIN3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FEC63E&line=FEC63E&point=FFFFFF&area=true&area_color=FEC63E" width="95%" />
 </div>
 
 ---
