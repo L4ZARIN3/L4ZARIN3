@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🧠 Sobre Mim
-- **Nome:** Bruno “L4ZARIN3” Lazarini  
+- **Nome:** Bruno “L4ZARIN3”
 - **Especialidades:** Pentest Mobile & Web, Exploração de Privilégios, Dev Back-end  
 - **Ferramentas favoritas:** Hyperf • Laravel • PHP • Socket.IO • Redis • Swoole  
 
