@@ -26,14 +26,14 @@
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🧠 Sobre Mim
 - **Nome:** Bruno “L4ZARIN3” Lazarini  
 - **Especialidades:** Pentest Mobile & Web, Exploração de Privilégios, Dev Back-end  
 - **Ferramentas favoritas:** Hyperf • Laravel • PHP • Socket.IO • Redis • Swoole  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -51,7 +51,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=L4ZARIN3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FEC63E&line=FEC63E&point=FFFFFF&area=true&area_color=FEC63E" width="95%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 
 ## 🚀 Skills
@@ -83,7 +83,7 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## ⚡ Projetos de Chaos
 
@@ -93,7 +93,7 @@
 | **Gateway de Pagamento** | Checkout customizado (Pix, cartão), escalável e balanceado                   |
 | **Stress Tester**        | Script Python com aiohttp para até 1 000 conexões simultâneas                |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🔥 Fun Facts
 - Rock nos ouvidos e Red Bull na veia 🎸  
@@ -102,7 +102,7 @@
 - Filosofias existenciais e infohazards me enlouquecem
 - Adoro quebrar sistemas... *eticamente* 😇
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📫 Onde me achar
 <p align="center">
@@ -111,7 +111,7 @@
   <a href="https://www.instagram.com/0x1.info.hazard"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🐍 Info hazard (CUIDADO)
 <h3 align="center">"A cobra é a dúvida, o fruto a verdade, e sempre que você comer do fruto será expulso de algum paraíso."</h3>
@@ -119,7 +119,7 @@
   <img src="./pIiK9Vu.gif" alt="Maçã Maldita" width="400" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 > ⚠️ *"Cuidado ao seguir este repositório: você pode acabar encontrando nada, se olhar direito."*
 
